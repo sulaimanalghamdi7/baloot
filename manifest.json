@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "حاسبة البلوت المتطورة",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "/baloot/",
   "short_name": "البلوت",
-  "start_url": "/baloot/"
+  "start_url": "/baloot/",
   "theme_color": "#0f0c29",
   "icons": [
     {
