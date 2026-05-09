@@ -1,0 +1,19 @@
+{
+  "background_color": "#0f0c29",
+  "dir": "rtl",
+  "display": "standalone",
+  "name": "حاسبة البلوت المتطورة",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "البلوت",
+  "start_url": "/",
+  "theme_color": "#0f0c29",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
